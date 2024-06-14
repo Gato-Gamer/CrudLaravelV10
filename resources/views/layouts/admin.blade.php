@@ -6,21 +6,21 @@
   <title>PUNTO DE VENTA | Dashboard</title>
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="/puntoventagame/public/plugins/fontawesome-free/css/all.min.css">
+  <link rel="stylesheet" href="/Tienda/public/plugins/fontawesome-free/css/all.min.css">
   <!-- Ionicons -->
   <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
   <!-- Tempusdominus Bootstrap 4 -->
-  <link rel="stylesheet" href="/puntoventagame/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
+  <link rel="stylesheet" href="/Tienda/public/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
   <!-- iCheck -->
-  <link rel="stylesheet" href="/puntoventagame/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
+  <link rel="stylesheet" href="/Tienda/public/plugins/icheck-bootstrap/icheck-bootstrap.min.css">
   <!-- Theme style -->
-  <link rel="stylesheet" href="/puntoventagame/public/dist/css/adminlte.min.css">
+  <link rel="stylesheet" href="/Tienda/public/dist/css/adminlte.min.css">
   <!-- overlayScrollbars -->
-  <link rel="stylesheet" href="/puntoventagame/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+  <link rel="stylesheet" href="/Tienda/public/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Daterange picker -->
-  <link rel="stylesheet" href="/puntoventagame/public/plugins/daterangepicker/daterangepicker.css">
+  <link rel="stylesheet" href="/Tienda/public/plugins/daterangepicker/daterangepicker.css">
   <!-- summernote -->
-  <link rel="stylesheet" href="/puntoventagame/public/plugins/summernote/summernote-bs4.min.css">
+  <link rel="stylesheet" href="/Tienda/public/plugins/summernote/summernote-bs4.min.css">
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -261,32 +261,32 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="/puntoventagame/public/plugins/jquery/jquery.min.js"></script>
+<script src="/Tienda/public/plugins/jquery/jquery.min.js"></script>
 <!-- jQuery UI 1.11.4 -->
-<script src="/puntoventagame/public/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="/Tienda/public/plugins/jquery-ui/jquery-ui.min.js"></script>
 <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 <script>
   $.widget.bridge('uibutton', $.ui.button)
 </script>
 <!-- Bootstrap 4 -->
-<script src="/puntoventagame/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="/Tienda/public/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- ChartJS -->
-<script src="/puntoventagame/public/plugins/chart.js/Chart.min.js"></script>
+<script src="/Tienda/public/plugins/chart.js/Chart.min.js"></script>
 <!-- Sparkline -->
-<script src="/puntoventagame/public/plugins/sparklines/sparkline.js"></script>
+<script src="/Tienda/public/plugins/sparklines/sparkline.js"></script>
 <!-- jQuery Knob Chart -->
-<script src="/puntoventagame/public/plugins/jquery-knob/jquery.knob.min.js"></script>
+<script src="/Tienda/public/plugins/jquery-knob/jquery.knob.min.js"></script>
 <!-- daterangepicker -->
-<script src="/puntoventagame/public/plugins/moment/moment.min.js"></script>
-<script src="/puntoventagame/public/plugins/daterangepicker/daterangepicker.js"></script>
+<script src="/Tienda/public/plugins/moment/moment.min.js"></script>
+<script src="/Tienda/public/plugins/daterangepicker/daterangepicker.js"></script>
 <!-- Tempusdominus Bootstrap 4 -->
-<script src="/puntoventagame/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+<script src="/Tienda/public/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
 <!-- Summernote -->
-<script src="/puntoventagame/public/plugins/summernote/summernote-bs4.min.js"></script>
+<script src="/Tienda/public/plugins/summernote/summernote-bs4.min.js"></script>
 <!-- overlayScrollbars -->
-<script src="/puntoventagame/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+<script src="/Tienda/public/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 <!-- AdminLTE App -->
-<script src="/puntoventagame/public/dist/js/adminlte.js"></script>
+<script src="/Tienda/public/dist/js/adminlte.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="/puntoventagame/public/dist/js/pages/dashboard.js"></script>
 </body>
